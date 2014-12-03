@@ -1,13 +1,17 @@
 /* This is the syntax for a CSS comment. */
 
 /* Typically you put all of your general element styles at the top. */
+*{
+    font-family: sans-serif;}
+
 body {
 	background-color: #eeeeee;
+    
 }
 
 h1 { 
 	color: #black;
-    text-align: center
+    text-align: center;
     
     
         
@@ -36,12 +40,12 @@ header {
 
 }
 
-nav {
+nav { text-align: center;
     color: #black;
 
 }
 
-nav a {
+nav a { 
 
 }
 
@@ -59,6 +63,6 @@ footer {
 
 /* Class and ID styles come last because they are the most specific. */
 
-#copyright {
+#copyright { 
 
 }
