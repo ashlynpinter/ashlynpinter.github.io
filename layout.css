@@ -5,7 +5,7 @@
     font-family: sans-serif;}
 
 body {
-	background-color: #eeeeee;
+	background-color: #81BEF7;
     
 }
 
@@ -42,6 +42,11 @@ header {
 
 nav { text-align: center;
     color: #black;
+    font-size: 20px;
+    padding: 10px;
+    padding-bottom: 55px;
+    margin-top: 20px;
+    box-sizing: padding-box;
 
 }
 
