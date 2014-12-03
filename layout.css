@@ -1,6 +1,35 @@
 /* This is the syntax for a CSS comment. */
 
 /* Typically you put all of your general element styles at the top. */
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+header {
+    background-color:#81BEF7;
+    color:white;
+    text-align:center;
+    float: center;
+    padding:5px;	 
+}	      
+}
+section {
+    width:350px;
+    float:center;
+    padding:10px;	 	 
+}
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+</style>
+
+
 *{
     font-family: sans-serif;}
 
