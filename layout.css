@@ -42,8 +42,6 @@ body {
 h1 { 
 	color: #black;
     text-align: center;
-    
-    
         
     
 }
@@ -56,11 +54,11 @@ p { text-align: center;
 
 }
 
-img {
+<center>
+img { 
     display:block;
     margin-left:auto;
     margin-right:auto;
-
 }
 
 
